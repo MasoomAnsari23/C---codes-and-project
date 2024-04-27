@@ -9,7 +9,8 @@ int main()
     cin>>base;
     cout<<"enter height"<<endl;
     cin>>height;
-    area=(base*height)/2;
+    area=(base*height)/24
+    4;
     cout<<"Area of triangle is "<<area<<endl;
     return 0;
 }
