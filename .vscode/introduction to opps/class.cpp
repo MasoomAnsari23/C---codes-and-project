@@ -3,7 +3,7 @@ using namespace std;
 
 class rectangle
 {
-    public:         /*class is by default private so we need to make it public */
+    public:       /*class is by default private so we need to make it public */
     int length;     /* we cant access or initailize cvalues of private things*/
     int breadth;
     
